@@ -1,0 +1,44 @@
+*{box-sizing: border-box;}
+.box{
+    border: solid 2px ;  height: 100%; padding: 20px;  width: 50%; margin-left: 20%; 
+    background-color: azure; font-weight: bold;
+}
+.image{ 
+    position: relative; top: 50%; left: 35%;
+}
+.place{
+    position: relative; left: 60px;
+}
+hr{
+    position: relative; bottom: 15px;
+}
+.sig1{
+    position: relative; left: 44%; bottom: 30px;
+}
+.lin2{
+    position: relative; left: 30%; bottom: 65px;
+}
+.sig2{
+    position: relative; left: 74%; bottom: 79px;
+}
+h3{
+    position: relative; left: 60%; bottom: 20px;
+}
+.date{
+    position: absolute; left: 55%; top: 30%;
+}
+.add{
+    position: relative; bottom: 60px;
+}
+.nation{
+    position: relative; left: 90px;
+}
+.post{
+    position: relative; left: 30%;
+}
+.state{
+    position: relative; left:50px ;
+}
+.na{
+    position: relative; left: 20%;
+}
