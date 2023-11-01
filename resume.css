@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+.content{ background-color: blanchedalmond; padding: 20px; 
+    position: relative; left: 25%;
+    height: 100% ; width: 50%; 
+}
+h1,h3,h4{
+    text-align: left; 
+}
+div {border: solid 2px aqua; height: 100%; width: 50%; 
+}
+.name{
+    padding: 15px ;
+    height: 130px; width: 100%; background-color: aqua;
+}
+.line{
+    border: solid  1px aqua;  background-color:aqua;
+}
